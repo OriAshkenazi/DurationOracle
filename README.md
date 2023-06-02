@@ -14,7 +14,7 @@ of projects based on certain parameters.
 The user will need Python installed on their computer to run this
 application. If Python is not installed, it can be downloaded from the
 official Python website:
-[[https://www.python.org/downloads/]{.underline}](https://www.python.org/downloads/)
+[https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 The application has been tested on Python 3.7+.
 
