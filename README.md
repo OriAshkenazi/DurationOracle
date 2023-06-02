@@ -25,7 +25,7 @@ The application has been tested on Python 3.7+.
 If you have Git installed, you can clone the repository by running the
 following command in the terminal/command prompt:
 
-**git clone \<repository-url\>**
+**git clone <[https://github.com/OriAshkenazi/DurationOracle](https://github.com/OriAshkenazi/DurationOracle)>**
 
 Alternatively, you can download a zip file of the project from the
 repository page and extract it.
